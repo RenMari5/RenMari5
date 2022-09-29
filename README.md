@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 - 🔭 I’m currently working on Fresh OJ, a responsive journaling app using React, TypeScript, and RESTful APIs
 - 🌱 I’m currently learning SQL
