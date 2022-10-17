@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- 🔭 I’m currently working on Fresh OJ, a responsive journaling app using React, TypeScript, and RESTful APIs
+- 🔭 I’m currently working on further sharpening my skills as I look for my first dev position!
 - 🌱 I’m currently learning SQL
 - 💬 Ask me about my 15+ years experience teaching K-12 students in the public sector and working in HR in the private sector
 - 📫 How to reach me: rpaczkowski@gmail.com
