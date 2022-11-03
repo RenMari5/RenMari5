@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on further sharpening my skills as I look for my first dev position!
 - 🌱 I’m currently learning SQL and PHP
-- 💬 Ask me about my 15+ years experience teaching K-12 students in the public sector and working in HR in the private sector
+- 💬 Ask me about my 15+ years experience teaching K-12 students in the public sector, including 5 years in Japan!
 - 📫 How to reach me: rpaczkowski@gmail.com
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I am a part-time Horror and JRPG streamer on Twitch! 
