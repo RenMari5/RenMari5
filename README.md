@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- 🔭 I’m currently working as an IT Specialist
+- 🔭 I’m currently working as a Bilingual IT Specialist (English - Japanese)
 - 🌱 I’m currently learning C#
 - 💬 Ask me about the EdTech app I am making for a friend called "Hall Pass"!
 - 📫 How to reach me: rpaczkowski@gmail.com
