@@ -5,7 +5,7 @@
 - 💬 Ask me about the EdTech app I am making for a friend called "Hall Pass"!
 - 📫 How to reach me: rpaczkowski@gmail.com
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I am a part-time Horror and JRPG streamer on Twitch! 
+- ⚡ Fun fact: I am a part-time Horror and JRPG streamer on Twitch & YouTube! 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
